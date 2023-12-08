@@ -53,13 +53,11 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: 'G-VQYCPNHB25'    # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
-
-baidu-analysis: f40851b91841f1abe810a63f8d41c2e2
 
 # Prefer color scheme setting.
 #
