@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -18,18 +18,18 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Harry's Blog                          # the main title
+title: Cheng's Blog                          # the main title
 
-tagline: Write blogs, share ideas, make friends and enjoy life.   # it will display as the sub-title
+tagline: Share my life and tough academic journey.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  I hope it will become a grain of gold someday.
+  Share my life and tough academic journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://Harry-hhj.github.io'
+url: 'https://lingjivoo.github.io'
 
 github:
-  username: Harry-hhj             # change to your github username
+  username: lingjivoo             # change to your github username
 
 twitter:
   username: None            # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: HHJ
-  email: Harry_hhj@163.com             # change to your email address
+  name: Cheng Luo
+  email: luocheng7777777@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/Harry-hhj       # change to your github homepage
+    - https://github.com/lingjivoo       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/avatar/avatar.jpeg
+avatar: assets/img/avatar/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
