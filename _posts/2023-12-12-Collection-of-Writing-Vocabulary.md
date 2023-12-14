@@ -24,7 +24,7 @@ image:
  
 
 
-> 2. **data starvation**
+> 2. **data starvation/ supervision starvation**
 
 
 > 3. **hinting at a possibility for **
@@ -36,9 +36,20 @@ image:
 >  immediate usability (typically an electronic device or a piece of software), unusually good (the novel is nothing out of the box).
 >> example: 4M leads to models that exhibit several key capabilities: (1) they can perform a diverse set of vision tasks **out of the box**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
-5. **remarkable flexibility**
+> 5. **remarkable flexibility**
 > can be used for describing controllability or editing,
->> enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**.
+>> enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
+
+
+
+> 6. **The field has seen a shift towards**
+> for the first paragraph in Introduction, the beginning of a storyline.
+>> In recent years, **the field** of natural language processing (NLP) **has seen a shift toward**  training large language models (LLMs) that are inherently capable of performing a wide range of tasks without requiring extensive task-specific adaptations [12, 25]. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
+
+
+> 7. **there remains a need to**
+> Translation in Introduction. Translation from previous works to problems/needs or our work. 
+>> **While** these models have demonstrated remarkable success in NLP, **there remains a need to** develop similarly versatile and scalable models for vision.. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
 
