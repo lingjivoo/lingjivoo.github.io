@@ -24,7 +24,7 @@ image:
  
 
 
-> 2. **data starvation/ supervision starvation**
+> 2. **data starvation/ supervision starvationre**
 
 
 > 3. **hinting at a possibility for **
@@ -38,20 +38,58 @@ image:
 
 > 5. **remarkable flexibility**
 > can be used for describing controllability or editing,
->> enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
+>> example: enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
 
 > 6. **The field has seen a shift towards**
 > for the first paragraph in Introduction, the beginning of a storyline.
->> In recent years, **the field** of natural language processing (NLP) **has seen a shift toward**  training large language models (LLMs) that are inherently capable of performing a wide range of tasks without requiring extensive task-specific adaptations [12, 25]. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
+>> example: In recent years, **the field** of natural language processing (NLP) **has seen a shift toward**  training large language models (LLMs) that are inherently capable of performing a wide range of tasks without requiring extensive task-specific adaptations [12, 25]. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
 > 7. **there remains a need to**
 > Translation in Introduction. Translation from previous works to problems/needs or our work. 
->> **While** these models have demonstrated remarkable success in NLP, **there remains a need to** develop similarly versatile and scalable models for vision.. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
+>> example: **While** these models have demonstrated remarkable success in NLP, **there remains a need to** develop similarly versatile and scalable models for vision.. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
+
+> 8. **delve into** 
+> to try hard to find out more information about something.
+>> In this report, we **delve into** the performance of LLMs within the context of scientific discovery/research, focusing on GPT-4 (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
+
+> 9. **Broadly speaking**
+> without regard to specific details or exceptions
+>> example: Broadly speaking, we evaluate GPT-4’s knowledge base, scientific understanding, scientific numerical calculation abilities, and various scientific prediction capabilities (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
+
+
+> 10. **transform the way**
+>> examples: i)Transform The Way You Work, and ii) LLMs are capable of transforming the way we generate and process information (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
+
+
+> 11. **transform the way**
+>> examples: i)Transform The Way You Work, and ii) LLMs are capable of transforming the way we generate and process information (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
+
+> 12 **extraordinary capabilities**
+>> example: Because of its extraordinary capabilities in general AI tasks, GPT-4 is also garnering significant attention in the scientific community.
+
+
+> 13 **central focus**
+>> example: Our aim is to provide a broad overview of LLMs’ performance and their potential applicability in these specific scientific fields, with GPT-4, the state-of-the-art LLM, as our **central focus**.
+
+> 14 **and beyond**
+>> example: These strive to uncover the fundamental principles and laws governing the universe, spanning from the smallest subatomic particles to the largest galaxies **and beyond**.
+
+> 15 **a wide array of**
+>> example: Natural science is an incredibly diverse field, encompassing **a wide array of** disciplines, including both physical sciences, which focus on non-living systems, and life sciences, which investigate living organisms.
+
+> 16 **overlaps with**
+> a part of the first thing occupies the same area as a part of the other thing.
+>> It is important to note that these areas are not mutually exclusive; for example, drug discovery substantially overlaps with biology.
+
+
+> 17 **by which**
+> By which = How or whereby or “through which”
+>> Drug discovery is the process by which new candidate medications are identified and developed to treat or prevent specific diseases and medical conditions.
 
 
 
