@@ -94,16 +94,16 @@ image:
 >> example:  Drug discovery is the process by which new candidate medications are identified and developed to treat or prevent specific diseases and medical conditions.
 
 
-> 18 ** on most fronts **
+> 18 **on most fronts**
 > of most aspects
 >> example: outperform these methods on most fronts (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
 
 
-> 18 ** follow-up methods **
+> 18 **follow-up methods**
 >> example: The success of NeRF has resulted in an explosion of follow-up methods that address quality and speed, often by introducing regularization strategies. (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
 
 
-> 19 ** equal **
+> 19 **equal**
 >> example: We are able to equal or in some cases surpass this quality while providing fast training and real-time rendering. (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
 
 ---

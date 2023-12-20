@@ -29,46 +29,46 @@ image:
 
 > 4 **here we go**
 
-> 5 ** it's going to be**
+> 5 **it's going to be**
 
-> 6 ** basiclly means **
+> 6 **basiclly means**
 
-> 7 ** that's generally not going to be the case **
-
-
-> 8 ** put them through the softmax **
+> 7 **that's generally not going to be the case**
 
 
-> 9 ** somebody figured out a way**
+> 8 **put them through the softmax**
 
 
-> 10 ** this is a huge speed up**
+> 9 **somebody figured out a way**
 
 
-> 11 ** ultimately what I am trying to get you guys to understand here is that there is ... **
+> 10 **this is a huge speed up**
 
-> 12 ** kind of **
+
+> 11 **ultimately what I am trying to get you guys to understand here is that there is ...**
+
+> 12 **kind of**
 >> it kind of sounds like
 
 
-> 13 ** If sb would have done sth **
+> 13 **If sb would have done sth**
 >> If they would have just stopped here, this paper would have just taken forever it would have produced something that is sure it's high quality
 
 
-> 14 ** shuffled away **
+> 14 **shuffled away**
 >> No one cares about it and it gets shuffled away and forgotten about.
 
 > 15 **on stream**
 > in or into regular operation, especially as part of a system, assembly line, or the like:
 >> tons of paper on stream.
 
-> 16 ** you've got ** 
+> 16 **you've got** 
 >> There are 1996 papers -> you've got some 1996 papers
 
-> 17 ** basically around ** 
+> 17 **basically around** 
 >> they are based on the idea of  -> they are basically around the idea of 
 
-> 18 ** they are looking at ** 
+> 18 **they are looking at** 
 >> They focus on -> they are looking at xxx
 
 ---
