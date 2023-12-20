@@ -16,7 +16,7 @@ image:
 # Collection of great vocabulary for paper writing
 
 
-> 1. **on the fly**
+> 1 **on the fly**
 
 > dynamically, while in motion or progress
 
@@ -24,56 +24,51 @@ image:
  
 
 
-> 2. **data starvation/ supervision starvationre**
+> 2 **data starvation/ supervision starvationre**
 
 
 
-> 3. **hinting at a possibility for **
-
+> 3 **hinting at a possibility for **
 > a hint to the possibility, provide a potential for 
-
 >> example: In contrast, recent large language models exhibit a wide range of capabilities, **hinting at a possibility for** similarly versatile models in computer vision. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
  
 
-> 4. **out of box**
-
+> 4 **out of box**
 >  immediate usability (typically an electronic device or a piece of software), unusually good (the novel is nothing out of the box).
-
 >> example: 4M leads to models that exhibit several key capabilities: (1) they can perform a diverse set of vision tasks **out of the box**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
-> 5. **remarkable flexibility**
 
+> 5 **remarkable flexibility**
 > can be used for describing controllability or editing,
-
 >> example: enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
 
-> 6. **The field has seen a shift towards**
+> 6 **The field has seen a shift towards**
 > for the first paragraph in Introduction, the beginning of a storyline.
 >> example: In recent years, **the field** of natural language processing (NLP) **has seen a shift toward**  training large language models (LLMs) that are inherently capable of performing a wide range of tasks without requiring extensive task-specific adaptations [12, 25]. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
-> 7. **there remains a need to**
+> 7 **there remains a need to**
 > Translation in Introduction. Translation from previous works to problems/needs or our work. 
 >> example: **While** these models have demonstrated remarkable success in NLP, **there remains a need to** develop similarly versatile and scalable models for vision.. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
 
-> 8. **delve into** 
+> 8 **delve into** 
 > to try hard to find out more information about something.
 >> In this report, we **delve into** the performance of LLMs within the context of scientific discovery/research, focusing on GPT-4 (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
 
-> 9. **Broadly speaking**
+> 9 **Broadly speaking**
 > without regard to specific details or exceptions
 >> example: Broadly speaking, we evaluate GPT-4’s knowledge base, scientific understanding, scientific numerical calculation abilities, and various scientific prediction capabilities (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
 
 
-> 10. **transform the way**
+> 10 **transform the way**
 >> examples: i)Transform The Way You Work, and ii) LLMs are capable of transforming the way we generate and process information (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
 
 
-> 11. **transform the way**
+> 11 **transform the way**
 >> examples: i)Transform The Way You Work, and ii) LLMs are capable of transforming the way we generate and process information (copy from [Imapct of LLM on Scientific Discovery](https://arxiv.org/pdf/2311.07361.pdf)).
 
 > 12 **extraordinary capabilities**
