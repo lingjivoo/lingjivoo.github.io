@@ -1,0 +1,77 @@
+---
+title: Collection of great vocabulary for paper writing
+author: Cheng Luo
+date: 2023-12-19 21:02:00 +1100
+categories: [Study]
+tags: [Oral]
+pin: true
+image:
+  src: https://raw.githubusercontent.com/lingjivoo/lingjivoo.github.io/master/_posts/2023-12-19-Collection-of-Oral-Expressions.assets/cover.png
+  width: 720
+  height: 778
+---
+
+
+
+# Collection of great vocabulary for paper writing
+
+
+> 1. **Tons of image pixels**
+
+>> You can have **tons of image pixels**.
+
+
+ 
+> 2. **there is a good pick for this**
+
+> 3. **Gaussian spread**
+
+
+> 4. **here we go**
+
+> 5. ** it's going to be**
+
+> 6. ** basiclly means **
+
+> 7. ** that's generally not going to be the case **
+
+
+> 8. ** put them through the softmax **
+
+
+> 9. ** somebody figured out a way**
+
+
+> 10. ** this is a huge speed up**
+
+
+> 11. ** ultimately what I am trying to get you guys to understand here is that there is ... **
+
+> 12. ** kind of **
+>> it kind of sounds like
+
+
+> 13. ** If sb would have done sth **
+>> If they would have just stopped here, this paper would have just taken forever it would have produced something that is sure it's high quality
+
+
+> 14. ** shuffled away **
+>> No one cares about it and it gets shuffled away and forgotten about.
+
+> 15. **on stream**
+> in or into regular operation, especially as part of a system, assembly line, or the like:
+>> tons of paper on stream.
+
+> 16 ** you've got ** 
+>> There are 1996 papers -> you've got some 1996 papers
+
+> 17 ** basically around ** 
+>> they are based on the idea of  -> they are basically around the idea of 
+
+> 18 ** they are looking at ** 
+>> They focus on -> they are looking at xxx
+
+---
+
+作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)
+

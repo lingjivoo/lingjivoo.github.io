@@ -27,17 +27,24 @@ image:
 > 2. **data starvation/ supervision starvationre**
 
 
+
 > 3. **hinting at a possibility for **
+
 > a hint to the possibility, provide a potential for 
+
 >> example: In contrast, recent large language models exhibit a wide range of capabilities, **hinting at a possibility for** similarly versatile models in computer vision. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
  
 
 > 4. **out of box**
+
 >  immediate usability (typically an electronic device or a piece of software), unusually good (the novel is nothing out of the box).
+
 >> example: 4M leads to models that exhibit several key capabilities: (1) they can perform a diverse set of vision tasks **out of the box**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 > 5. **remarkable flexibility**
+
 > can be used for describing controllability or editing,
+
 >> example: enabling a wide variety of expressive multimodal editing capabilities with **remarkable flexibility**. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
 
 
@@ -84,14 +91,25 @@ image:
 
 > 16 **overlaps with**
 > a part of the first thing occupies the same area as a part of the other thing.
->> It is important to note that these areas are not mutually exclusive; for example, drug discovery substantially overlaps with biology.
+>> example: It is important to note that these areas are not mutually exclusive; for example, drug discovery substantially overlaps with biology.
 
 
 > 17 **by which**
 > By which = How or whereby or “through which”
->> Drug discovery is the process by which new candidate medications are identified and developed to treat or prevent specific diseases and medical conditions.
+>> example:  Drug discovery is the process by which new candidate medications are identified and developed to treat or prevent specific diseases and medical conditions.
 
 
+> 18 ** on most fronts **
+> of most aspects
+>> example: outperform these methods on most fronts (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
+
+
+> 18 ** follow-up methods **
+>> example: The success of NeRF has resulted in an explosion of follow-up methods that address quality and speed, often by introducing regularization strategies. (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
+
+
+> 19 ** equal **
+>> example: We are able to equal or in some cases surpass this quality while providing fast training and real-time rendering. (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
 
 ---
 
