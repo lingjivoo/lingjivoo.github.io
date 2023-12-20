@@ -28,7 +28,7 @@ image:
 
 
 
-> 3 **hinting at a possibility for **
+> 3 **hinting at a possibility for**
 > a hint to the possibility, provide a potential for 
 >> example: In contrast, recent large language models exhibit a wide range of capabilities, **hinting at a possibility for** similarly versatile models in computer vision. (copy from [4M](https://arxiv.org/pdf/2312.06647.pdf))
  
