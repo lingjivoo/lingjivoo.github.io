@@ -71,6 +71,68 @@ image:
 > 18 **they are looking at** 
 >> They focus on -> they are looking at xxx
 
+> 19 **It is packed** 
+>> too many people heare
+
+> 20 **up there / down there** 
+>> I live down there
+
+> 21 **what brought sb + place** 
+>> What brought you to Paris, What brought you here?
+
+> 22 **Every since** 
+>> Every since I got here, every since I was a child.
+
+> 23 **Get sb's way**
+>> You always get your way. I'm used to getting my way too. 
+
+> 24 **mood swings**
+>> a change of mood.
+
+> 25 **give me whiplash**
+>> whiplash: any reaction to a sudden change
+>> she really gave me a whiplash
+
+> 26 **It'd be better if**
+>> it used to make a suggestion about what you think should be done/happen.
+>> she really gave me a whiplash
+
+
+> 27 **Not that**
+>> not that I did not wanna be 
+
+> 28 **What does that mean**
+
+> 29 **Let's say**
+>> You can say this when considering what might happen if sth occurs
+>> Let's say you have a million dollars, what would you do with it?
+
+> 30 **For the sake of / for sb's sake/ for argument's sake**
+>> in order to help sb or sth
+
+> 31 **probably not**
+
+
+> 32 **Let's instead pretend that**
+>>  Let's instead pretend that these 3D gaussians are these little ellipsoids.
+
+
+> 33 **I'm + adj + of a person**
+>> I'm too stressful of a person.
+
+
+> 34 **get overwhelmed**
+>> do not know what to do
+>> it is really easy to get overwhelmed
+
+
+> 35 **grill**
+>> to ask sb a lot of questions about their ideas, actions often in an unpleasant way.
+>> start grilling me
+
+> 36 **wait till after**
+>> let's wait till after Christmas
+
 ---
 
 作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)

@@ -106,6 +106,11 @@ image:
 > 19 **equal**
 >> example: We are able to equal or in some cases surpass this quality while providing fast training and real-time rendering. (copy from [3D Gaussian splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)).
 
+
+> 20 **pave the way for the application of xx in**
+>> example: 
+
+
 ---
 
 作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)
