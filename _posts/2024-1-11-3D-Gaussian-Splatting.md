@@ -5,6 +5,8 @@ date: 2024-01-11 15:46:00 +1100
 categories: [Study]
 tags: [Technique]
 pin: true
+image:
+  src: https://raw.githubusercontent.com/lingjivoo/lingjivoo.github.io/master/_posts/2024-1-11-3D-Gaussian-Splatting.assets/overview.png
 ---
 
 
@@ -80,7 +82,6 @@ render: render (function: render, defined in gaussian_renderer)
         render_pkg = render(viewpoint_cam, gaussians, pipe, bg)
 ```
 
-Spherical harmonic lighting (SH coefficients)
 
 Training:
 
@@ -96,6 +97,7 @@ Training:
 ```
 
 
+Spherical harmonic lighting (SH coefficients)
 
 ```
         # Every 1000 its we increase the levels of SH up to a maximum degree
@@ -103,6 +105,10 @@ Training:
             gaussians.oneupSHdegree()
 ```
 
+
+Densification: 
+
+![](https://raw.githubusercontent.com/lingjivoo/lingjivoo.github.io/master/_posts/2024-1-11-3D-Gaussian-Splatting.assets/Densification.png)
 
 ```
         # Densification
