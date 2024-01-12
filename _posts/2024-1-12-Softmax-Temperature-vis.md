@@ -7,6 +7,7 @@ tags: [Technique]
 pin: true
 
 ---
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 Copied from [Softmax Temperature](https://medium.com/mlearning-ai/softmax-temperature-5492e4007f71)
 ---
