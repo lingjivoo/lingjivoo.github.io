@@ -5,7 +5,7 @@ date: 2024-01-12 19:30:00 +1100
 categories: [Study]
 tags: [Technique]
 pin: true
-
+math: true
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 

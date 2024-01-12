@@ -5,6 +5,7 @@ date: 2024-01-11 15:46:00 +1100
 categories: [Study]
 tags: [Technique]
 pin: true
+math: true
 image:
   src: https://raw.githubusercontent.com/lingjivoo/lingjivoo.github.io/master/_posts/2024-1-11-3D-Gaussian-Splatting.assets/overview.png
 ---
