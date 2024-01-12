@@ -59,9 +59,28 @@ python metrics.py -m <path to pre-trained model>
 ### Train.py
 model: GaussianModel (variable: gaussians)
 dataset: Scene (variable: scene)
+render: render (function: render, defined in gaussian_renderer)
 
+```
+    bg_color = [1, 1, 1] if dataset.white_background else [0, 0, 0]
+    background = torch.tensor(bg_color, dtype=torch.float32, device="cuda")
+```
 
+```
+    viewpoint_stack = None
+```
 
+```
+        # Every 1000 its we increase the levels of SH up to a maximum degree
+        if iteration % 1000 == 0:
+            gaussians.oneupSHdegree()
+```
+
+```
+        render_pkg = render(viewpoint_cam, gaussians, pipe, bg)
+```
+
+Spherical harmonic lighting (SH coefficients)
 
 ---
 
