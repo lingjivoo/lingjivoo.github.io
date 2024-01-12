@@ -40,7 +40,7 @@ The effect of this scaling can be visualized in Fig 3:
 The distribution above approaches uniform distribution giving each word an equal probability of getting sampled out, thereby rendering a more creative look to the generated sequence. Too much creativity isn’t good either. In the extreme case, the generated text might not make sense at all. Hence, like all other hyperparameters, this needs to be tuned as well.
 
 ## Conclusion
-The scale of temperature controls the smoothness of the output distribution. It, therefore, increases the sensitivity to low-probability candidates. As $T \rightarrow \infty$, the distribution becomes more uniform, thus increasing the uncertainty. Contrarily, when  $T \rightarrow 0$, the distribution collapses to a point mass.
+The scale of temperature controls the smoothness of the output distribution. It, therefore, increases the sensitivity to low-probability candidates. As $$T \rightarrow \infty$$, the distribution becomes more uniform, thus increasing the uncertainty. Contrarily, when  $$T \rightarrow 0$$, the distribution collapses to a point mass.
 As mentioned earlier, the scope of Temperature Scaling is not limited to NLG. It is also used to calibrate deep learning models while training and in Reinforcement Learning as well. Another broader concept that it is a part of is Knowledge Distillation. Below are the links on these topics for further exploration.
 
 ---
