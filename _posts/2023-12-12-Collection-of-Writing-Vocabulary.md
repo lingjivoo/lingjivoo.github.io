@@ -110,6 +110,8 @@ image:
 > 20 **pave the way for the application of xx in**
 >> example: 
 
+> 21 **charting future research paths**
+>> a multitude of studies have surfaced with the aim of **charting future research paths**, which have varied from identifying emerging trends to highlighting areas poised for swift progress. 
 
 ---
 
