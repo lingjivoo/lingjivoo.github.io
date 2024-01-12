@@ -82,6 +82,43 @@ render: render (function: render, defined in gaussian_renderer)
 
 Spherical harmonic lighting (SH coefficients)
 
+Training:
+
+```
+        gaussians.update_learning_rate(iteration) # adjust the learning rate
+        viewpoint_cam = viewpoint_stack.pop(randint(0, len(viewpoint_stack)-1)) # pick a random camera
+        bg = torch.rand((3), device="cuda") if opt.random_background else background # set the background color
+        render_pkg = render(viewpoint_cam, gaussians, pipe, bg) # render process
+        image, viewspace_point_tensor, visibility_filter, radii = render_pkg["render"], render_pkg["viewspace_points"], render_pkg["visibility_filter"], render_pkg["radii"] # get rendered outputs
+
+        loss = (1.0 - opt.lambda_dssim) * Ll1 + opt.lambda_dssim * (1.0 - ssim(image, gt_image)) # loss (reconstruction loss + ssim loss)
+
+```
+
+
+
+```
+        # Every 1000 its we increase the levels of SH up to a maximum degree
+        if iteration % 1000 == 0:
+            gaussians.oneupSHdegree()
+```
+
+
+```
+        # Densification
+        if iteration < opt.densify_until_iter:
+            # Keep track of max radii in image-space for pruning
+            gaussians.max_radii2D[visibility_filter] = torch.max(gaussians.max_radii2D[visibility_filter], radii[visibility_filter])
+            gaussians.add_densification_stats(viewspace_point_tensor, visibility_filter)
+
+            if iteration > opt.densify_from_iter and iteration % opt.densification_interval == 0:
+                size_threshold = 20 if iteration > opt.opacity_reset_interval else None
+                gaussians.densify_and_prune(opt.densify_grad_threshold, 0.005, scene.cameras_extent, size_threshold)
+            
+            if iteration % opt.opacity_reset_interval == 0 or (dataset.white_background and iteration == opt.densify_from_iter):
+                gaussians.reset_opacity()
+```
+
 ---
 
 作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)
