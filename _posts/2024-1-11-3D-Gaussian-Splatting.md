@@ -25,7 +25,7 @@ conda activate gaussian_splatting
 ```
 
 **Notes**
-Theu cuda version must $$\geq 11.8$$ 
+Theu cuda version must $\geq 11.8$
 And then you need to install submodules
 
 ```
