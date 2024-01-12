@@ -1,5 +1,5 @@
 ---
-title: 3D Gaussian Splatting
+title: Softmax Temperature
 author: Cheng Luo
 date: 2024-01-12 19:30:00 +1100
 categories: [Study]
