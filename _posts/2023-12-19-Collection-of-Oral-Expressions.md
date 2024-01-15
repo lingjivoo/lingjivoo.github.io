@@ -133,6 +133,19 @@ image:
 > 36 **wait till after**
 >> let's wait till after Christmas
 
+> 37 **walk on eggshell**
+>> To be very careful about what you say or do to someone because they're easily upset or offended
+
+> 38 **spare one's feeling**
+>> To be careful not to do or say anything that might upset sb
+
+> 38 **sugar-coating sth**
+>> To do sth that makes an unpleasant situation seems less unpleasant.
+
+
+
+
+
 ---
 
 作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)
