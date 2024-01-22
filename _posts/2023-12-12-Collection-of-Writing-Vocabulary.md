@@ -113,6 +113,12 @@ image:
 > 21 **charting future research paths**
 >> a multitude of studies have surfaced with the aim of **charting future research paths**, which have varied from identifying emerging trends to highlighting areas poised for swift progress. 
 
+> 22 **despite the curse of**
+>> There is problem ......
+>> High-quality samples generated with score-based reverse diffusion algorithms provide evidence that deep neural networks (DNN) trained for denoising can learn high-dimensional densities, **despite the curse of dimensionality**.
+
+> 23 **ever-more**
+>> Deep neural networks (DNNs) have demonstrated ever-more impressive capabilities for learning and sampling from high-dimensional image densities.
 ---
 
 作者：lingjivoo，github主页：[传送门](https://github.com/lingjivoo)

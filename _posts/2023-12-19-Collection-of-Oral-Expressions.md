@@ -142,6 +142,11 @@ image:
 > 38 **sugar-coating sth**
 >> To do sth that makes an unpleasant situation seems less unpleasant.
 
+> 39 **the whole point of **
+>> the whole point of these model is they're .
+
+
+
 
 
 
