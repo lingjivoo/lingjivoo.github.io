@@ -122,7 +122,7 @@ image:
 
 
 > 34 **get overwhelmed**
->> do not know what to do
+>> do not know what to do  
 >> it is really easy to get overwhelmed
 
 
@@ -147,6 +147,9 @@ image:
 
 
 
+
+> 40 **be putty in his hand**
+>> be controlled or affected by somebody.
 
 
 
